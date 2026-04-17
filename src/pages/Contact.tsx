@@ -165,8 +165,8 @@ export function Contact() {
               </p>
 
               <div style={{ display: 'flex', flexDirection: 'column', gap: '1.25rem', marginBottom: '2.5rem' }}>
-                <ContactInfoCard icon={<Phone size={20} />} title="Téléphone" href="tel:+221771234567">
-                  +221 77 123 45 67
+                <ContactInfoCard icon={<Phone size={20} />} title="Téléphone" href="tel:+221773378554">
+                  +221 77 337 85 54
                 </ContactInfoCard>
                 <ContactInfoCard icon={<Mail size={20} />} title="Email" href="mailto:festaevents.sn@gmail.com">
                   festaevents.sn@gmail.com

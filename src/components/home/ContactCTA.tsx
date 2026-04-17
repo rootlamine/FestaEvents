@@ -69,7 +69,7 @@ export function ContactCTA() {
                   Prendre contact
                   <ArrowRight size={16} />
                 </NavLink>
-                <a href="tel:+221771234567" className="btn btn-outline-white">
+                <a href="tel:+221773378554" className="btn btn-outline-white">
                   <Phone size={16} />
                   Appeler maintenant
                 </a>
@@ -81,9 +81,9 @@ export function ContactCTA() {
               <ContactCard
                 icon={<Phone size={22} />}
                 title="Téléphone"
-                primary="+221 77 123 45 67"
+                primary="+221 77 337 85 54"
                 secondary="Disponible 7j/7, 8h–20h"
-                href="tel:+221771234567"
+                href="tel:+221773378554"
               />
               <ContactCard
                 icon={<Mail size={22} />}
